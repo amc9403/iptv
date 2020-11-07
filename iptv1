@@ -1,1 +1,201 @@
-Enter the IPTV m3u List here
+#EXTM3U
+#EXTINF:-1,BR001:A&E BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2531
+#EXTINF:-1,BR002:AMC BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2530
+#EXTINF:-1,BR003:Animal Planet BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2529
+#EXTINF:-1,BR004:Arte 1
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2528
+#EXTINF:-1,BR005:AXN BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2527
+#EXTINF:-1,BR006:Band BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2526
+#EXTINF:-1,BR007:Band News BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2525
+#EXTINF:-1,BR008:Band Sports
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2524
+#EXTINF:-1,BR009:VH1 BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2523
+#EXTINF:-1,BR010:BIS BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2522
+#EXTINF:-1,BR011:Boomerang BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2521
+#EXTINF:-1,BR012:FISH TV
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2520
+#EXTINF:-1,BR013:Cartoon Network BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2519
+#EXTINF:-1,BR014:Cinemax BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2518
+#EXTINF:-1,BR015:Combate
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2517
+#EXTINF:-1,BR016:Comedy Central BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2516
+#EXTINF:-1,BR017:Baby TV
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2515
+#EXTINF:-1,BR018:Discovery BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2514
+#EXTINF:-1,BR019:Discovery Civilization
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2513
+#EXTINF:-1,BR020:Discovery Home Health
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2512
+#EXTINF:-1,BR021:Discovery Kids
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2511
+#EXTINF:-1,BR022:Discovery Science BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2510
+#EXTINF:-1,BR023:Discovery Theater
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2509
+#EXTINF:-1,BR024:Discovery Turbo
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2508
+#EXTINF:-1,BR025:Discovery WORLD
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2507
+#EXTINF:-1,BR029:E! BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2503
+#EXTINF:-1,BR030:ESPN Extra
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2502
+#EXTINF:-1,BR031:ESPN BRASIL
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2501
+#EXTINF:-1,BR032:WOOHOO
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2500
+#EXTINF:-1,BR033:ESPN
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2499
+#EXTINF:-1,BR034:PFC
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2498
+#EXTINF:-1,BR035:VIVA BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2497
+#EXTINF:-1,BR036:TV Record
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2496
+#EXTINF:-1,BR037:Food Network BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2495
+#EXTINF:-1,BR038:Fox BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2494
+#EXTINF:-1,BR039:Fox Life
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2493
+#EXTINF:-1,BR040:Fox Permium 1
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2492
+#EXTINF:-1,BR041:Fox Premium 2
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2491
+#EXTINF:-1,BR042:Fox Sports 2 BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2490
+#EXTINF:-1,BR043:Fox Sports 1
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2489
+#EXTINF:-1,BR044:FX BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2488
+#EXTINF:-1,BR045:Globo News BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2487
+#EXTINF:-1,BR046:GLOBO RBS TV PORTO ALEGRE
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2486
+#EXTINF:-1,BR047:Globo RJ
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2485
+#EXTINF:-1,BR048:Globo BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2484
+#EXTINF:-1,BR049:Gloobinho
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2483
+#EXTINF:-1,BR050:GNT BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2482
+#EXTINF:-1,BR051:H2 BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2481
+#EXTINF:-1,BR052:HBO 2 BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2480
+#EXTINF:-1,BR053:HBO Family BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2479
+#EXTINF:-1,BR054:HBO BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2478
+#EXTINF:-1,BR055:HBO Plus BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2477
+#EXTINF:-1,BR056:HBO Signature BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2476
+#EXTINF:-1,BR057:History BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2475
+#EXTINF:-1,BR058:ID BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2474
+#EXTINF:-1,BR059:Lifetime BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2473
+#EXTINF:-1,BR060:Mais Globosat
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2472
+#EXTINF:-1,BR061:Max
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2471
+#EXTINF:-1,BR062:Max Prime
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2470
+#EXTINF:-1,BR063:Max Up
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2469
+#EXTINF:-1,BR064:MegaPix
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2468
+#EXTINF:-1,BR065:MTV BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2467
+#EXTINF:-1,BR066:Multishow
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2466
+#EXTINF:-1,BR067:Music Box
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2465
+#EXTINF:-1,BR068:NAT GEO BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2464
+#EXTINF:-1,BR069:NAT GEO Kids BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2463
+#EXTINF:-1,BR070:NAT GEO Wild BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2462
+#EXTINF:-1,BR071:NICK JR BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2461
+#EXTINF:-1,BR072:Nickelodeon BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2460
+#EXTINF:-1,BR073:OFF
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2459
+#EXTINF:-1,BR074:Paramount BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2458
+#EXTINF:-1,BR075:Premiere 2
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2457
+#EXTINF:-1,BR076:Premiere 3
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2456
+#EXTINF:-1,BR077:Premiere 4
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2455
+#EXTINF:-1,BR078:Premiere 5
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2454
+#EXTINF:-1,BR079:CNN BRASIL
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2453
+#EXTINF:-1,BR080:BBB 2020
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2452
+#EXTINF:-1,BR081:Premiere Clubes
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2451
+#EXTINF:-1,BR082:Warner Channel
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2450
+#EXTINF:-1,BR083:Record
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2449
+#EXTINF:-1,BR084:Rede TV
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2448
+#EXTINF:-1,BR085:SBT
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2447
+#EXTINF:-1,BR086:Space BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2446
+#EXTINF:-1,BR087:Sport TV 2
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2445
+#EXTINF:-1,BR088:Sport TV 3
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2444
+#EXTINF:-1,BR089:Sport TV 1
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2443
+#EXTINF:-1,BR090:Studio Universal
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2442
+#EXTINF:-1,BR091:SYFY BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2441
+#EXTINF:-1,BR092:TBS BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2440
+#EXTINF:-1,BR093:Telecine Action
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2439
+#EXTINF:-1,BR094:Telecine Cult
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2438
+#EXTINF:-1,BR095:Telecine Fun
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2437
+#EXTINF:-1,BR096:Telecine Pipoca
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2436
+#EXTINF:-1,BR097:Telecine Premium
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2435
+#EXTINF:-1,BR098:Telecine Touch
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2434
+#EXTINF:-1,BR099:TLC BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2433
+#EXTINF:-1,BR100:TNT BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2432
+#EXTINF:-1,BR101:TNT Series  BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2431
+#EXTINF:-1,BR102:TV Ra Tim Bum
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2430
+#EXTINF:-1,BR103:Universal BR
+http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/2429
